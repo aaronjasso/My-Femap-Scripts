@@ -13,5 +13,8 @@ If you don't know how to use macros, see my guide [How to use Femap Scripts](htt
 [Old Style Mesh Points on Surface](https://github.com/aaronjasso/Femap-Old-Style-Mesh-Points-on-Surface)
 | A recreation of the simple and intuative Mesh Points on Surface dialog box that was removed in Femap 12.
 
+[Update Plate and Laminate Non-Structural Mass](https://github.com/aaronjasso/Update-Plate-and-Laminate-Non-Structural-Mass)
+| Add or change the non-structural mass on multiple properties at once.
+
 [Viewpoint](https://github.com/aaronjasso/Femap-Vewpoint)
 | Get basic view orientation data and save it so you can return to the exact same orientation later.
