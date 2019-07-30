@@ -7,20 +7,20 @@ If you don't know how to use macros, see my guide [How to use Femap Scripts](htt
 
 ---
 
-[Create Node or Point at Center](https://github.com/aaronjasso/Create-Node-or-Point-at-Center)
+- [Create Node or Point at Center](https://github.com/aaronjasso/Create-Node-or-Point-at-Center)
 | Creates a node or a point at either the geometric center or the average coordinates of a selection.
 
-[Find Elements with No Material Direction](https://github.com/aaronjasso/Femap-Find-Elements-with-No-Material-Direction)
+- [Find Elements with No Material Direction](https://github.com/aaronjasso/Femap-Find-Elements-with-No-Material-Direction)
 | Easily locate laminate elements with no defined material direction.
 
-[Make Laminate Properties from Layups](https://github.com/aaronjasso/Femap-Make-Laminate-Properties-from-Layups)
+- [Make Laminate Properties from Layups](https://github.com/aaronjasso/Femap-Make-Laminate-Properties-from-Layups)
 | Automatically generate properties based on existing layup definitions.
 
-[Old Style Mesh Points on Surface](https://github.com/aaronjasso/Femap-Old-Style-Mesh-Points-on-Surface)
+- [Old Style Mesh Points on Surface](https://github.com/aaronjasso/Femap-Old-Style-Mesh-Points-on-Surface)
 | A recreation of the simple and intuative Mesh Points on Surface dialog box that was removed in Femap 12.
 
-[Update Plate and Laminate Non-Structural Mass](https://github.com/aaronjasso/Update-Plate-and-Laminate-Non-Structural-Mass)
+- [Update Plate and Laminate Non-Structural Mass](https://github.com/aaronjasso/Update-Plate-and-Laminate-Non-Structural-Mass)
 | Add or change the non-structural mass on multiple properties at once.
 
-[Viewpoint](https://github.com/aaronjasso/Femap-Vewpoint)
+- [Viewpoint](https://github.com/aaronjasso/Femap-Vewpoint)
 | Get basic view orientation data and save it so you can return to the exact same orientation later.
