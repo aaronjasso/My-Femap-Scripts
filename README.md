@@ -10,6 +10,9 @@ If you don't know how to use macros, see my guide [How to use Femap Scripts](htt
 [Create Node or Point at Center](https://github.com/aaronjasso/Create-Node-or-Point-at-Center)
 | Creates a node or a point at either the geometric center or the average coordinates of a selection.
 
+[Find Elements with No Material Direction](https://github.com/aaronjasso/Femap-Find-Elements-with-No-Material-Direction)
+| Easily locate laminate elements with no defined material direction.
+
 [Make Laminate Properties from Layups](https://github.com/aaronjasso/Femap-Make-Laminate-Properties-from-Layups)
 | Automatically generate properties based on existing layup definitions.
 
