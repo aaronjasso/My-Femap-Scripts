@@ -7,6 +7,9 @@ If you don't know how to use macros, see my guide [How to use Femap Scripts](htt
 
 ---
 
+- [Configure New Model](https://github.com/aaronjasso/Configure-New-Model)
+| A script to update various view settings to my preferences.
+
 - [Create Node or Point at Center](https://github.com/aaronjasso/Create-Node-or-Point-at-Center)
 | Creates a node or a point at either the geometric center or the average coordinates of a selection.
 
