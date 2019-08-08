@@ -7,7 +7,10 @@ If you don't know how to use macros, see my guide [How to use Femap Scripts](htt
 
 ---
 
-- [Configure New Model](https://github.com/aaronjasso/Configure-New-Model)
+- [Batch Rename Outputs](https://github.com/aaronjasso/Femap-Batch-Rename-Outputs)
+| Easily rename multiple output sets at once.
+
+- [Configure New Model](https://github.com/aaronjasso/Femap-Configure-New-Model)
 | A script to update various view settings to my preferences.
 
 - [Create Node or Point at Center](https://github.com/aaronjasso/Create-Node-or-Point-at-Center)
