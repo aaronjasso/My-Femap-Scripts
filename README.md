@@ -5,6 +5,9 @@ I've written a number of Femap API macros for productivity and convenience. I'll
 
 If you don't know how to use macros, see my guide [How to use Femap Scripts](https://github.com/aaronjasso/How_to_use_Femap_Scripts).
 
+**Formatting Note:**
+For some reason, the nice consistent indentations I make in the Femap API are sometimes messed up when I upload to Github. Right now I'm focusing on uploading more of my scripts so that others can use them, and I'm not spending much time fixing these odd indentations. I'll probably get around to that eventually. But for now, the code view may look a little wonky. Fortunately, WinWrap Basic ignores whitespace so the scripts will all function just fine.
+
 ---
 
 - [Batch Rename Outputs](https://github.com/aaronjasso/Femap-Batch-Rename-Outputs)
