@@ -31,5 +31,5 @@ For some reason, the nice consistent indentations I make in the Femap API are so
 - [Update Plate and Laminate Non-Structural Mass](https://github.com/aaronjasso/Update-Plate-and-Laminate-Non-Structural-Mass)
 | Add or change the non-structural mass on multiple properties at once.
 
-- [Viewpoint](https://github.com/aaronjasso/Femap-Vewpoint)
+- [Viewpoint](https://github.com/aaronjasso/Femap-Viewpoint)
 | Get basic view orientation data and save it so you can return to the exact same orientation later.
