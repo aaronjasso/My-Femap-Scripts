@@ -22,6 +22,9 @@ For some reason, the nice consistent indentations I make in the Femap API are so
 - [Find Elements with No Material Direction](https://github.com/aaronjasso/Femap-Find-Elements-with-No-Material-Direction)
 | Easily locate laminate elements with no defined material direction.
 
+- [Layer Visibility](https://github.com/aaronjasso/Layer-Visibility)
+| Quickly change the visibility of multiple layers.
+
 - [Make Laminate Properties from Layups](https://github.com/aaronjasso/Femap-Make-Laminate-Properties-from-Layups)
 | Automatically generate properties based on existing layup definitions.
 
