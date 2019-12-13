@@ -25,6 +25,9 @@ For some reason, the nice consistent indentations I make in the Femap API are so
 - [Layer Visibility](https://github.com/aaronjasso/Layer-Visibility)
 | Quickly change the visibility of multiple layers.
 
+- [List Nodes on Elements](https://github.com/aaronjasso/Femap---List-Nodes-on-Elements)
+| List selected elements and their associated nodes in a fixed-width column format for use in Excel.
+
 - [Make Laminate Properties from Layups](https://github.com/aaronjasso/Femap-Make-Laminate-Properties-from-Layups)
 | Automatically generate properties based on existing layup definitions.
 
