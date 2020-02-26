@@ -34,6 +34,9 @@ For some reason, the nice consistent indentations I make in the Femap API are so
 - [Old Style Mesh Points on Surface](https://github.com/aaronjasso/Femap-Old-Style-Mesh-Points-on-Surface)
 | A recreation of the simple and intuative Mesh Points on Surface dialog box that was removed in Femap 12.
 
+- [Rotate Element First Edge](https://github.com/aaronjasso/Femap---Rotate-Element-First-Edge)
+| Moves a planar element's first edge to an adjacent edge.
+
 - [Update Plate and Laminate Non-Structural Mass](https://github.com/aaronjasso/Update-Plate-and-Laminate-Non-Structural-Mass)
 | Add or change the non-structural mass on multiple properties at once.
 
