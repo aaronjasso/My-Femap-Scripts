@@ -37,6 +37,9 @@ For some reason, the nice consistent indentations I make in the Femap API are so
 - [Rotate Element First Edge](https://github.com/aaronjasso/Femap---Rotate-Element-First-Edge)
 | Moves a planar element's first edge to an adjacent edge.
 
+- [Set Next Node and Element ID to High](https://github.com/aaronjasso/Femap---Set-Next-Node-and-Element-ID-to-High)
+| Force Femap to create nodes and elements starting at the next highest ID above the existing nodes and elements.
+
 - [Update Plate and Laminate Non-Structural Mass](https://github.com/aaronjasso/Update-Plate-and-Laminate-Non-Structural-Mass)
 | Add or change the non-structural mass on multiple properties at once.
 
