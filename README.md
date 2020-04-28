@@ -16,6 +16,9 @@ For some reason, the nice consistent indentations I make in the Femap API are so
 - [Configure New Model](https://github.com/aaronjasso/Femap-Configure-New-Model)
 | A script to update various view settings to my preferences.
 
+- [Create Line Normal to Surface](https://github.com/aaronjasso/Femap---Create-Line-Normal-to-Surface)
+| Pick a surface and a point to create a straight line normal to the surface at the selected point.
+
 - [Create Node or Point at Center](https://github.com/aaronjasso/Create-Node-or-Point-at-Center)
 | Creates a node or a point at either the geometric center or the average coordinates of a selection.
 
