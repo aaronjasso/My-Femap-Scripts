@@ -34,6 +34,9 @@ For some reason, the nice consistent indentations I make in the Femap API are so
 - [Make Laminate Properties from Layups](https://github.com/aaronjasso/Femap-Make-Laminate-Properties-from-Layups)
 | Automatically generate properties based on existing layup definitions.
 
+- [Move Nodes to Coords](https://github.com/aaronjasso/Femap---Move-Nodes-to-Coords)
+| Skip the XYZ confirmation dialog when moving nodes and save a click!
+
 - [Old Style Mesh Points on Surface](https://github.com/aaronjasso/Femap-Old-Style-Mesh-Points-on-Surface)
 | A recreation of the simple and intuative Mesh Points on Surface dialog box that was removed in Femap 12.
 
